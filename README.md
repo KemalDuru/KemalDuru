@@ -15,7 +15,7 @@
 
 ###
 
-<h1 align="center">hey there 👋 I'm Kemal</h1>
+<h1 align="center">Hey There 👋 I'm Kemal</h1>
 
 ###
 
